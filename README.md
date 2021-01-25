@@ -7,7 +7,7 @@ between workstations. This extension is for users interested in tracking
 their daily activities and requires some help remembering what need's to be
 done.
 
-### Important
+## Important
 
 ### meta data & root folder
 
