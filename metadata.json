@@ -1,8 +1,8 @@
 {
-  "uuid": "todo@mcsunity.com",
+  "uuid": "task-to-do@mcsunity.com",
   "name": "Task To do",
   "description": "A simple to do task manager that is capable of sharing information to other workstations",
   "version": 1,
   "shell-version": ["3.38.3"],
-  "url": "https://github.com"
+  "url": "https://github.com/Nasar165/task-to-do-mcsunity.com"
 }
