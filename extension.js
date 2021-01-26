@@ -28,7 +28,7 @@ function init() {
 
 function enable() {
   try {
-    Main.panel._centerBox.insert_child_at_index(panelButton, 1);
+    Main.panel._rightBox.insert_child_at_index(panelButton, 1);
     log(`enabling ${Me.metadata.name} version ${Me.metadata.version}`);
   } catch (error) {
     logError(error, "ExtensionError");
